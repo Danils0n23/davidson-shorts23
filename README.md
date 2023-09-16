@@ -6,10 +6,15 @@ Este projeto é uma aplicação web que permite a conversão de vídeos curtos e
 Funcionalidades
 
 Transcrição de Vídeos: Converta vídeos curtos em texto de forma automática.
+
 Resumo de Texto: Crie resumos do texto gerado para extrair informações-chave.
+
 Inteligência Artificial: Utilize modelos Transformers para melhorar a qualidade da transcrição e resumo.
+
 Interface de Usuário Amigável: Uma interface web intuitiva para facilitar a conversão e visualização dos resultados.
+
 Como Usar
+
 Clone o repositório para o seu ambiente local:
 
 bash
