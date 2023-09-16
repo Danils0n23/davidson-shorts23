@@ -72,6 +72,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 Licença
 Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
-Este README é apenas um exemplo inicial. Certifique-se de personalizá-lo de acordo com o seu projeto, adicionando informações detalhadas sobre a instalação, configuração, uso e quaisquer outras características específicas do seu aplicativo. Você também pode incluir exemplos de código, capturas de tela e detalhes sobre como a IA e os modelos Transformers são implementados no projeto.
-
 # davidson-shorts23
