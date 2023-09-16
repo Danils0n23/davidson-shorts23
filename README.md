@@ -1,8 +1,10 @@
 
 Conversão de Vídeos Curtos em Texto
+
 Este projeto é uma aplicação web que permite a conversão de vídeos curtos em texto por meio de transcrição automática. Além disso, oferece a capacidade de resumir o texto gerado. A aplicação é desenvolvida usando HTML, CSS, JavaScript, Node.js, React.js e a biblioteca Xenova, que aproveita modelos Transformers de IA para melhorar a precisão da transcrição e resumo de texto.
 
 Funcionalidades
+
 Transcrição de Vídeos: Converta vídeos curtos em texto de forma automática.
 Resumo de Texto: Crie resumos do texto gerado para extrair informações-chave.
 Inteligência Artificial: Utilize modelos Transformers para melhorar a qualidade da transcrição e resumo.
@@ -11,36 +13,45 @@ Como Usar
 Clone o repositório para o seu ambiente local:
 
 bash
+
 Copy code
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 Instale as dependências do servidor Node.js:
 
 bash
+
 Copy code
 cd server
 npm install
 Inicie o servidor:
 
 Copy code
+
 node index.js
 Navegue até a pasta do cliente React.js:
 
 bash
+
 Copy code
+
 cd ../client
 Instale as dependências do cliente React.js:
 
 Copy code
+
 npm install
 Inicie o cliente React.js:
 
 sql
+
 Copy code
+
 npm start
 Abra um navegador e acesse http://localhost:3000 para usar a aplicação.
 
 Requisitos
+
 Node.js (versão X.X.X)
 NPM (Node Package Manager)
 Navegador da Web
